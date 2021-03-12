@@ -1,0 +1,2 @@
+C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\Definitions.CircusGame.h
+C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Source\CircusGame\CircusGame.h

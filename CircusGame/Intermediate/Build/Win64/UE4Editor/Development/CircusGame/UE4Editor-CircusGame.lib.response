@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CircusGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\CircusGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\CircusGame.cpp.obj"
+"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\CircusGameGameModeBase.cpp.obj"
+"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\CircusGame.init.gen.cpp.obj"
+"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\CircusGameGameModeBase.gen.cpp.obj"
+"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\Default.rc2.res"
+/OUT:"C:\Users\ivbra\Documents\GitHub\CircusGame\CircusGame\Intermediate\Build\Win64\UE4Editor\Development\CircusGame\UE4Editor-CircusGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_CircusGame

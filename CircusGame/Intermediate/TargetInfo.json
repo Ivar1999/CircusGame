@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CircusGame",
+			"Path": "C:\\Users\\ivbra\\Documents\\GitHub\\CircusGame\\CircusGame\\Source\\CircusGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CircusGameEditor",
+			"Path": "C:\\Users\\ivbra\\Documents\\GitHub\\CircusGame\\CircusGame\\Source\\CircusGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
